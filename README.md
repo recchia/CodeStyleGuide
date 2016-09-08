@@ -24,7 +24,7 @@ $ chmod +x .git/hooks/*
 ```
 
 ### phpstorm
-The .jar file included in this direcotry MUST be imported into PhpStorm. When done, it will configure PhpStorm to the Linio code standards.
+The .jar file included in this direcotry MUST be imported into PhpStorm. When done, it will configure PhpStorm to the code standards.
 
 ### php-cs-fixer
 The included .php_cs file in this directory MUST be copied to the root of each and every code repository. It instructs php-cs-fixer to fix your code according to the code standards. The only 
